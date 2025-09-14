@@ -63,7 +63,6 @@ Connectorless PMMA plastic optic fiber transmitter (IF-E96E):
   <img src="images/IF-D91B_top.png" alt="IF-E96E" height="200">
   <img src="images/IF-E96E_bottom.png" alt="IF-E96E" height="200">
 </p>
-images/PTS645_iso.png
 
 Vertical tactile switch (PTS645V):
 <p align="center">
