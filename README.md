@@ -9,10 +9,10 @@ fixme: Images of bare protoboard
 
 
 Compatible chassis:
-- [K93-10436-H7-L120]([http://example.com/link1](https://jlcmc.com/product/b/U01/BR9212/aluminum-box-(jlc)---104*36*120mm,-split,-monolithic))
-- [K97-10473-H7-L120]([http://example.com/link2](https://jlcmc.com/product/b/U01/BR9241/aluminum-box-(jlc)---104*73*120mm,-split,-monolithic))
-- [K96-10463-H7-L120]([http://example.com/link3](https://jlcmc.com/product/b/U01/BR9259/aluminum-box-(jlc)---104*63*120mm,-split,-monolithic))
-- [K127-13031-H7-L120]([https://jlcmc.com/product/b/U01/BR10337/aluminum-box-(jlc)---130*31*120mm,-monolithic,-with-handles)
+- [K93-10436-H7-L120](https://jlcmc.com/product/b/U01/BR9212/aluminum-box-(jlc)---104*36*120mm,-split,-monolithic)
+- [K97-10473-H7-L120](https://jlcmc.com/product/b/U01/BR9241/aluminum-box-(jlc)---104*73*120mm,-split,-monolithic)
+- [K96-10463-H7-L120](https://jlcmc.com/product/b/U01/BR9259/aluminum-box-(jlc)---104*63*120mm,-split,-monolithic)
+- [K127-13031-H7-L120](https://jlcmc.com/product/b/U01/BR10337/aluminum-box-(jlc)---130*31*120mm,-monolithic,-with-handles)
 
 
 BNC module:
