@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "IF-E96E")(type "KiCad")(uri "${KIPRJMOD}/IF-E96E.pretty")(options "")(descr ""))
+)

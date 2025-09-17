@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "XZVG50W-2")(type "KiCad")(uri "${KIPRJMOD}/XZVG50W-2.pretty")(options "")(descr ""))
+)

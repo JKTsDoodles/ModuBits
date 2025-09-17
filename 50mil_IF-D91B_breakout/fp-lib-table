@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "IF-E96E")(type "KiCad")(uri "${KIPRJMOD}/IF-E96E.pretty")(options "")(descr ""))
+  (lib (name "IF-D91B")(type "KiCad")(uri "${KIPRJMOD}/IF-D91B.pretty")(options "")(descr ""))
+)
