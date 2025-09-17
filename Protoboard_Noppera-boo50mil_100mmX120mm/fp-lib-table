@@ -1,11 +1,6 @@
 (fp_lib_table
   (version 7)
   (lib (name "PTS645_breakout")(type "KiCad")(uri "${KIPRJMOD}/PTS645_breakout.pretty")(options "")(descr ""))
-  (lib (name "PJ-063AH_breakout")(type "KiCad")(uri "${KIPRJMOD}/PJ-063AH_breakout.pretty")(options "")(descr ""))
   (lib (name "BNC_breakout")(type "KiCad")(uri "${KIPRJMOD}/BNC_breakout.pretty")(options "")(descr ""))
-  (lib (name "audiojack_breakout")(type "KiCad")(uri "${KIPRJMOD}/audiojack_breakout.pretty")(options "")(descr ""))
-  (lib (name "audiojack_TH_breakout")(type "KiCad")(uri "${KIPRJMOD}/audiojack_TH_breakout.pretty")(options "")(descr ""))
-  (lib (name "banana_breakout")(type "KiCad")(uri "${KIPRJMOD}/banana_breakout.pretty")(options "")(descr ""))
-  (lib (name "IF-E96E_breakout")(type "KiCad")(uri "${KIPRJMOD}/IF-E96E_breakout.pretty")(options "")(descr ""))
-  (lib (name "IF-D91B_breakout")(type "KiCad")(uri "${KIPRJMOD}/IF-D91B_breakout.pretty")(options "")(descr ""))
+  (lib (name "4mm_banana_breakout")(type "KiCad")(uri "${KIPRJMOD}/4mm_banana_breakout.pretty")(options "")(descr ""))
 )

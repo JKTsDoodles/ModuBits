@@ -1,13 +1,13 @@
 (footprint "PTS645_breakout"
-	(version 20250829)
+	(version 20250907)
 	(generator "pcbnew")
 	(generator_version "9.99")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 0 -0.5 0)
+		(at 0 -3.31 180)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "f38242c4-61c4-43ef-a876-4929cf56da35")
+		(uuid "3426085b-5b74-4f0e-b8c8-656ec19d0826")
 		(effects
 			(font
 				(size 1 1)
@@ -19,7 +19,7 @@
 		(at 0 1 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "b43c9a84-c7dd-40e0-bcf9-0e0c0313c620")
+		(uuid "ae7496d3-d124-4fee-a25a-a823f417c47c")
 		(effects
 			(font
 				(size 1 1)
@@ -32,7 +32,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "e5079d64-2773-4385-bcdf-3856951cfd9e")
+		(uuid "6d6b602e-0894-47d0-a2d5-51a0ad603f48")
 		(effects
 			(font
 				(size 1 1)
@@ -45,7 +45,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "110d86c4-672e-4e9f-baa0-385255cf044a")
+		(uuid "6ce3286c-2bd3-46bc-8080-03c3810f501c")
 		(effects
 			(font
 				(size 1 1)
@@ -55,6 +55,17 @@
 	)
 	(attr smd)
 	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -5.588 -5.207)
+		(end 5.207 2.159)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "c0b2d322-6c18-4743-8435-9cc7abc02f93")
+	)
 	(fp_text user "${REFERENCE}"
 		(at 0 2.5 0)
 		(unlocked yes)
@@ -68,7 +79,7 @@
 		)
 	)
 	(pad "1" thru_hole circle
-		(at -1.27 0)
+		(at -1.27 -3.81 180)
 		(size 1 1)
 		(drill 0.65)
 		(layers "*.Cu" "*.Mask")
@@ -77,34 +88,10 @@
 			(front none)
 			(back none)
 		)
-		(uuid "8c90a417-fcdc-49d4-933e-714ff07085cf")
+		(uuid "aa9fd8fa-42a7-436d-b52d-c9b34fa745b8")
 	)
 	(pad "1" thru_hole circle
-		(at 0 -3.81)
-		(size 1 1)
-		(drill 0.65)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
-		(tenting
-			(front none)
-			(back none)
-		)
-		(uuid "0ecfbf4b-9f30-4737-b894-75c5592377a6")
-	)
-	(pad "1" thru_hole circle
-		(at 0 -2.54)
-		(size 1 1)
-		(drill 0.65)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
-		(tenting
-			(front none)
-			(back none)
-		)
-		(uuid "f20a031a-db74-4134-81a0-565054d1d731")
-	)
-	(pad "1" thru_hole circle
-		(at 0 0)
+		(at 0 -3.81 180)
 		(size 1 1)
 		(drill 0.65)
 		(layers "*.Cu" "*.Mask")
@@ -116,7 +103,7 @@
 		(uuid "b73114bd-18ea-4993-9d23-7d335578df5b")
 	)
 	(pad "1" thru_hole circle
-		(at 1.27 0)
+		(at 0 -1.27 180)
 		(size 1 1)
 		(drill 0.65)
 		(layers "*.Cu" "*.Mask")
@@ -125,18 +112,42 @@
 			(front none)
 			(back none)
 		)
-		(uuid "aa9fd8fa-42a7-436d-b52d-c9b34fa745b8")
+		(uuid "f20a031a-db74-4134-81a0-565054d1d731")
+	)
+	(pad "1" thru_hole circle
+		(at 0 0 180)
+		(size 1 1)
+		(drill 0.65)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(tenting
+			(front none)
+			(back none)
+		)
+		(uuid "0ecfbf4b-9f30-4737-b894-75c5592377a6")
+	)
+	(pad "1" thru_hole circle
+		(at 1.27 -3.81 180)
+		(size 1 1)
+		(drill 0.65)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(tenting
+			(front none)
+			(back none)
+		)
+		(uuid "8c90a417-fcdc-49d4-933e-714ff07085cf")
 	)
 	(embedded_fonts no)
 	(model "/home/jkt/Documents/kicad projects/50mil_PTS645_module/smol.step"
 		(offset
-			(xyz 0 0 1.1)
+			(xyz 0 3.81 1.1)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz -0 -0 -180)
+			(xyz -0 -0 -0)
 		)
 	)
 )
