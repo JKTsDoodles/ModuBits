@@ -1,5 +1,5 @@
 (footprint "PTS645_breakout"
-	(version 20250907)
+	(version 20250926)
 	(generator "pcbnew")
 	(generator_version "9.99")
 	(layer "F.Cu")
@@ -7,7 +7,7 @@
 		(at 0 -3.31 180)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "3426085b-5b74-4f0e-b8c8-656ec19d0826")
+		(uuid "aa9ab783-d113-4423-a2b7-7845288c2478")
 		(effects
 			(font
 				(size 1 1)
@@ -19,7 +19,7 @@
 		(at 0 1 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "ae7496d3-d124-4fee-a25a-a823f417c47c")
+		(uuid "3f7f9349-c941-41a3-bdb0-215a9552017d")
 		(effects
 			(font
 				(size 1 1)
@@ -32,7 +32,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "6d6b602e-0894-47d0-a2d5-51a0ad603f48")
+		(uuid "71fd3579-8575-4c56-b3ce-f12989bc37b3")
 		(effects
 			(font
 				(size 1 1)
@@ -45,7 +45,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "6ce3286c-2bd3-46bc-8080-03c3810f501c")
+		(uuid "d37b9819-56c5-48dd-8086-9cbdd8eb777f")
 		(effects
 			(font
 				(size 1 1)
@@ -55,16 +55,65 @@
 	)
 	(attr smd)
 	(duplicate_pad_numbers_are_jumpers no)
-	(fp_rect
+	(fp_line
 		(start -5.588 -5.207)
+		(end -5.588 0.381)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "826eee26-1fc4-44c4-bdb8-9d8943f9f37e")
+	)
+	(fp_line
+		(start -5.588 -5.207)
+		(end 5.207 -5.207)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "341bf23a-56b2-44d9-bc67-0972d3e2dfa3")
+	)
+	(fp_line
+		(start -5.588 0.381)
+		(end -4.318 0.381)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "ea8e29d5-8c62-4e6d-bc70-0109c7295ad2")
+	)
+	(fp_line
+		(start -4.318 0.381)
+		(end -4.318 2.159)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "6a281b22-3989-4f39-b687-7f6e71ed2470")
+	)
+	(fp_line
+		(start -4.318 2.159)
 		(end 5.207 2.159)
 		(stroke
 			(width 0.1)
 			(type default)
 		)
-		(fill no)
 		(layer "F.SilkS")
-		(uuid "c0b2d322-6c18-4743-8435-9cc7abc02f93")
+		(uuid "f37f218d-97f8-4d81-899d-a603ba233cde")
+	)
+	(fp_line
+		(start 5.207 -5.207)
+		(end 5.207 2.159)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "3e4cdb8b-6c76-417a-8aaa-f5818b3850e3")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 2.5 0)

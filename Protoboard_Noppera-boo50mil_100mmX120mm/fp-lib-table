@@ -3,4 +3,8 @@
   (lib (name "PTS645_breakout")(type "KiCad")(uri "${KIPRJMOD}/PTS645_breakout.pretty")(options "")(descr ""))
   (lib (name "BNC_breakout")(type "KiCad")(uri "${KIPRJMOD}/BNC_breakout.pretty")(options "")(descr ""))
   (lib (name "4mm_banana_breakout")(type "KiCad")(uri "${KIPRJMOD}/4mm_banana_breakout.pretty")(options "")(descr ""))
+  (lib (name "PJ-063AH_breakoutl")(type "KiCad")(uri "${KIPRJMOD}/PJ-063AH_breakoutl.pretty")(options "")(descr ""))
+  (lib (name "SJ3-35083D-TR")(type "KiCad")(uri "${KIPRJMOD}/SJ3-35083D-TR.pretty")(options "")(descr ""))
+  (lib (name "IF-E96E_breakout")(type "KiCad")(uri "${KIPRJMOD}/IF-E96E_breakout.pretty")(options "")(descr ""))
+  (lib (name "IF-D91B_breakout")(type "KiCad")(uri "${KIPRJMOD}/IF-D91B_breakout.pretty")(options "")(descr ""))
 )
