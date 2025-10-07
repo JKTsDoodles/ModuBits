@@ -20,8 +20,9 @@ Compatible chassis:
 BNC module:
 <p align="center">
   <img src="images/BNCbreakout_front.png" alt="BNCmodule" height="200">
-  <img src="images/BNCbreakout_top.png" alt="PJ-063AH" height="200">
-  <img src="images/BNCbreakout_bot.png" alt="PJ-063AH" height="200">
+  <img src="images/BNCbreakout_top.png" alt="BNCmodule" height="200">
+  <img src="images/BNCbreakout_bot.png" alt="BNCmodule" height="200">
+  <img src="images/K127-13031-H7-L120_reference_BNC.png" alt="K127-13031-H7-L120_reference_BNC" height="200">
 </p>
 
 Note that BNC connector parts of this type may share the same footprint but differ in the height of the connector in order to vendor lock their customers. Check for the height of your part, which is 6.25mm in this example.
@@ -34,6 +35,7 @@ Barrel Jack module (PJ-063AH):
   <img src="images/PJ-063AH_front.png" alt="PJ-063AH" height="200">
   <img src="images/PJ-063AH_top.png" alt="PJ-063AH" height="200">
   <img src="images/PJ-063AH_bottom.png" alt="PJ-063AH" height="200">
+  <img src="images/K127-13031-H7-L120_reference_PJ-063AH.png" alt="K127-13031-H7-L120_reference_PJ-063AH" height="200">
 </p>
 
 3.5mm Audio Jack module (SJ2-3593D-SMT-TR):
@@ -41,6 +43,7 @@ Barrel Jack module (PJ-063AH):
   <img src="images/audiojack_TH_iso.png" alt="SJ2-3593D-SMT-TR" height="200">
   <img src="images/audiojack_TH_top.png" alt="SJ2-3593D-SMT-TR" height="200">
   <img src="images/audiojack_TH_bottom.png" alt="SJ2-3593D-SMT-TR" height="200">
+  <img src="images/K127-13031-H7-L120_reference_SJ3-35083D-TR.png" alt="K127-13031-H7-L120_reference_SJ3-35083D-TR" height="200">
 </p>
 
 4mm Banana Jack module (Banana_Cliff_FCR7350B_S16N-PC_Horizontal):
@@ -48,6 +51,7 @@ Barrel Jack module (PJ-063AH):
   <img src="images/banana_iso.png" alt="PJ-063AH" height="200">
   <img src="images/banana_top1.png" alt="PJ-063AH" height="200">
   <img src="images/banana_bottom1.png" alt="PJ-063AH" height="200">
+  <img src="images/K127-13031-H7-L120_reference_banana4mm.png" alt="K127-13031-H7-L120_reference_banana4mm" height="200">
 </p>
 
 Connectorless PMMA plastic optic fiber receiver (IF-D91B):
@@ -55,6 +59,8 @@ Connectorless PMMA plastic optic fiber receiver (IF-D91B):
   <img src="images/IF-D91B_iso.png" alt="IF-D91B" height="200">
   <img src="images/IF-D91B_top.png" alt="IF-D91B" height="200">
   <img src="images/IF-D91B_bottom.png" alt="IF-D91B" height="200">
+  <img src="images/K127-13031-H7-L120_reference_IF-D91B.png" alt="K127-13031-H7-L120_reference_IF-D91B" height="200">
+  
 </p>
 
 Connectorless PMMA plastic optic fiber transmitter (IF-E96E):
@@ -62,6 +68,7 @@ Connectorless PMMA plastic optic fiber transmitter (IF-E96E):
   <img src="images/IF-E96E_iso.png" alt="IF-E96E" height="200">
   <img src="images/IF-D91B_top.png" alt="IF-E96E" height="200">
   <img src="images/IF-E96E_bottom.png" alt="IF-E96E" height="200">
+  <img src="images/K127-13031-H7-L120_reference_IF-E96E.png" alt="K127-13031-H7-L120_reference_IF-E96E" height="200">
 </p>
 
 Vertical tactile switch (PTS645V):
