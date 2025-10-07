@@ -60,7 +60,6 @@ Connectorless PMMA plastic optic fiber receiver (IF-D91B):
   <img src="images/IF-D91B_top.png" alt="IF-D91B" height="200">
   <img src="images/IF-D91B_bottom.png" alt="IF-D91B" height="200">
   <img src="images/K127-13031-H7-L120_reference_IF-D91B.png" alt="K127-13031-H7-L120_reference_IF-D91B" height="200">
-  
 </p>
 
 Connectorless PMMA plastic optic fiber transmitter (IF-E96E):
@@ -76,4 +75,5 @@ Vertical tactile switch (PTS645V):
   <img src="images/PTS645_iso.png" alt="PTS645V" height="200">
   <img src="images/PTS645_top.png" alt="PTS645V" height="200">
   <img src="images/PTS645_bottom.png" alt="PTS645V" height="200">
+  <img src="images/K127-13031-H7-L120_reference_PTS645V.png" alt="K127-13031-H7-L120_reference_PTS645V" height="200">
 </p>
