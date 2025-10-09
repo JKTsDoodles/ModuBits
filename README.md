@@ -1,6 +1,10 @@
 # ModuBits
 This is a versatile set of prototyping boards and modules designed to fit chassis measuring 100mm wide and 120mm deep. Each module allows for easy integration of various connectors and components, enabling efficient prototyping and experimentation in electronics projects.
 
+ECAD tool: KiCad 9.99 (nightly)
+
+MCAD tool: FreeCAD 1.0.2
+
 <p align="center">
   <img src="images/BBBBBBBNC_button_threeBarrelJacks.png" alt="ProtoboardEquippedWithModules" width="50%">
 </p>
