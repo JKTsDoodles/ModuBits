@@ -33,8 +33,10 @@ Note that BNC connector parts of this type may share the same footprint but diff
   <img src="images/BNC_height_5227161-2.png" alt="BNCheight" width="25%">
 </p>
 
-BNC reference designs:
-
+BNC reference design:
+  <p align="center">
+    <img src="images/Reference_BNC.png" alt="Reference_BNC" height="200">
+  </p>
 Chassis K127-13031-H7-L120:
   <p align="center">
     <img src="images/K127-13031-H7-L120_reference_BNC.png" alt="K127-13031-H7-L120_reference_BNC" height="200">
@@ -55,8 +57,10 @@ Barrel Jack module (PJ-063AH):
   <img src="images/PJ-063AH_top.png" alt="PJ-063AH" height="200">
   <img src="images/PJ-063AH_bottom.png" alt="PJ-063AH" height="200">
 </p>
-Barrel jack reference designs:
-
+Barrel jack reference design:
+  <p align="center">
+    <img src="images/Reference_PJ-063AH.png" alt="Reference_PJ-063AH" height="200">
+  </p>
 Chassis K127-13031-H7-L120:
   <p align="center">
     <img src="images/K127-13031-H7-L120_reference_PJ-063AH.png" alt="K127-13031-H7-L120_reference_PJ-063AH" height="200">
@@ -72,12 +76,15 @@ Chassis K97-10473-H7-L120:
 
 3.5mm Audio Jack module (SJ3-35083D-TR):
 <p align="center">
-  <img src="images/audiojack_TH_iso.png" alt="SJ2-3593D-SMT-TR" height="200">
-  <img src="images/audiojack_TH_top.png" alt="SJ2-3593D-SMT-TR" height="200">
-  <img src="images/audiojack_TH_bottom.png" alt="SJ2-3593D-SMT-TR" height="200">
+  <img src="images/audiojack_TH_iso.png" alt="SJ3-35083D-TR" height="200">
+  <img src="images/audiojack_TH_top.png" alt="SJ3-35083D-TR" height="200">
+  <img src="images/audiojack_TH_bottom.png" alt="SJ3-35083D-TR" height="200">
 </p>
 
-Audio jack reference designs:
+Audio jack reference design:
+  <p align="center">
+    <img src="images/Reference_SJ3-35083D-TR.png" alt="Reference_SJ3-35083D-TR" height="200">
+  </p>
 
 Chassis K127-13031-H7-L120:
   <p align="center">
@@ -99,8 +106,10 @@ Chassis K97-10473-H7-L120:
   <img src="images/banana_bottom1.png" alt="PJ-063AH" height="200">
 </p>
 
-4mm Banana jack reference designs:
-
+4mm Banana jack reference design:
+  <p align="center">
+    <img src="images/Reference_4mmBanana.png" alt="Reference_4mmBanana" height="200">
+  </p>
 Chassis K127-13031-H7-L120:
   <p align="center">
     <img src="images/K127-13031-H7-L120_reference_banana4mm.png" alt="K127-13031-H7-L120_reference_banana4mm" height="200">
@@ -121,7 +130,10 @@ Connectorless PMMA plastic optic fiber receiver (IF-D91B):
   <img src="images/IF-D91B_bottom.png" alt="IF-D91B" height="200">
 </p>
 
-Connectorless PMMA plastic optic fiber receiver reference designs:
+Connectorless PMMA plastic optic fiber receiver reference design:
+  <p align="center">
+    <img src="images/Reference_IF-D91B.png" alt="Reference_IF-D91B" height="200">
+  </p>
 
 Chassis K127-13031-H7-L120:
   <p align="center">
@@ -143,7 +155,10 @@ Connectorless PMMA plastic optic fiber transmitter (IF-E96E):
   <img src="images/IF-E96E_bottom.png" alt="IF-E96E" height="200">
 </p>
 
-Connectorless PMMA plastic optic fiber transmitter reference designs:
+Connectorless PMMA plastic optic fiber transmitter reference design:
+  <p align="center">
+    <img src="images/Reference_IF-D91B.png" alt="Reference_IF-D91B" height="200">
+  </p>
 
 Chassis K127-13031-H7-L120:
   <p align="center">
@@ -165,7 +180,10 @@ Right-angle tactile switch (PTS645V):
   <img src="images/PTS645_bottom.png" alt="PTS645V" height="200">
 </p>
 
-Right-angle tactile switch reference designs:
+Right-angle tactile switch reference design:
+  <p align="center">
+    <img src="images/Reference_PTS645V.png" alt="Reference_PTS645V" height="200">
+  </p>
 
 Chassis K127-13031-H7-L120:
   <p align="center">
