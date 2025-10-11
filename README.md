@@ -151,13 +151,13 @@ Chassis K97-10473-H7-L120:
 Connectorless PMMA plastic optic fiber transmitter (IF-E96E):
 <p align="center">
   <img src="images/IF-E96E_iso.png" alt="IF-E96E" height="200">
-  <img src="images/IF-D91B_top.png" alt="IF-E96E" height="200">
+  <img src="images/IF-E96E_top.png" alt="IF-E96E" height="200">
   <img src="images/IF-E96E_bottom.png" alt="IF-E96E" height="200">
 </p>
 
 Connectorless PMMA plastic optic fiber transmitter reference design:
   <p align="center">
-    <img src="images/Reference_IF-D91B.png" alt="Reference_IF-D91B" height="200">
+    <img src="images/Reference_IF-E96E.png" alt="Reference_IF-E96E" height="200">
   </p>
 
 Chassis K127-13031-H7-L120:
