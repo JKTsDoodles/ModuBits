@@ -49,6 +49,10 @@ Chassis K97-10473-H7-L120:
   <p align="center">
     <img src="images/K97-10473-H7-L120_reference_BNC_slot1_up_slot4_down.png" alt="K97-10473-H7-L120_reference_BNC_slot1_up_slot4_down" height="200">
   </p>
+Chassis K96-10463-H7-L120:
+  <p align="center">
+    <img src="images/K96-10463-H7-L120_reference_BNC_slot1_up_slot4_down.png" alt="K96-10463-H7-L120_reference_BNC_slot1_up_slot4_down" height="200">
+  </p>
 
 
 Barrel Jack module (PJ-063AH):
@@ -72,6 +76,10 @@ Chassis K93-10436-H7-L120:
 Chassis K97-10473-H7-L120:
   <p align="center">
     <img src="images/K97-10473-H7-L120_reference_PJ-063AH_slot1_up_slot4_down.png" alt="K97-10473-H7-L120_reference_PJ-063AH_slot1_up_slot4_down" height="200">
+  </p>
+Chassis K96-10463-H7-L120:
+  <p align="center">
+    <img src="images/K96-10463-H7-L120_reference_PJ-063AH_slot1_up_slot4_down.png" alt="K96-10463-H7-L120_reference_PJ-063AH_slot1_up_slot4_down" height="200">
   </p>
 
 3.5mm Audio Jack module (SJ3-35083D-TR):
@@ -98,6 +106,10 @@ Chassis K97-10473-H7-L120:
   <p align="center">
     <img src="images/K97-10473-H7-L120_reference_SJ3-35083D-TR_slot1_up_slot4_down.png" alt="K97-10473-H7-L120_reference_SJ3-35083D-TR_slot1_up_slot4_down" height="200">
   </p>
+Chassis K96-10463-H7-L120:
+  <p align="center">
+    <img src="images/K96-10463-H7-L120_reference_SJ3-35083D-TR_slot1_up_slot4_down.png" alt="K96-10463-H7-L120_reference_SJ3-35083D-TR_slot1_up_slot4_down" height="200">
+  </p>
 
 4mm Banana Jack module (Banana_Cliff_FCR7350B_S16N-PC_Horizontal):
 <p align="center">
@@ -121,6 +133,10 @@ Chassis K93-10436-H7-L120:
 Chassis K97-10473-H7-L120:
   <p align="center">
     <img src="images/K97-10473-H7-L120_reference_4mmBanana_slot1_up_slot4_down.png" alt="K97-10473-H7-L120_reference_4mmBanana_slot1_up_slot4_down" height="200">
+  </p>
+Chassis K96-10463-H7-L120:
+  <p align="center">
+    <img src="images/K96-10463-H7-L120_reference_4mmBanana_slot1_up_slot4_down.png" alt="K96-10463-H7-L120_reference_4mmBanana_slot1_up_slot4_down" height="200">
   </p>
 
 Connectorless PMMA plastic optic fiber receiver (IF-D91B):
@@ -147,6 +163,10 @@ Chassis K97-10473-H7-L120:
   <p align="center">
     <img src="images/K97-10473-H7-L120_reference_IF-D91B_slot1_up_slot4_down.png" alt="K97-10473-H7-L120_reference_IF-D91B_slot1_up_slot4_down" height="200">
   </p>
+Chassis K96-10463-H7-L120:
+  <p align="center">
+    <img src="images/K96-10463-H7-L120_reference_IF-D91B_slot1_up_slot4_down.png" alt="K96-10463-H7-L120_reference_IF-D91B_slot1_up_slot4_down" height="200">
+  </p>
 
 Connectorless PMMA plastic optic fiber transmitter (IF-E96E):
 <p align="center">
@@ -172,6 +192,10 @@ Chassis K97-10473-H7-L120:
   <p align="center">
     <img src="images/K97-10473-H7-L120_reference_IF-E96E_slot1_up_slot4_down.png" alt="K97-10473-H7-L120_reference_IF-E96E_slot1_up_slot4_down" height="200">
   </p>
+Chassis K96-10463-H7-L120:
+  <p align="center">
+    <img src="images/K96-10463-H7-L120_reference_IF-E96E_slot1_up_slot4_down.png" alt="K96-10463-H7-L120_reference_IF-E96E_slot1_up_slot4_down" height="200">
+  </p>
 
 Right-angle tactile switch (PTS645V):
 <p align="center">
@@ -196,4 +220,8 @@ Chassis K93-10436-H7-L120:
 Chassis K97-10473-H7-L120:
   <p align="center">
     <img src="images/K97-10473-H7-L120_reference_PTS645V_slot1_up_slot4_down.png" alt="K97-10473-H7-L120_reference_PTS645V_slot1_up_slot4_down" height="200">
+  </p>
+Chassis K96-10463-H7-L120:
+  <p align="center">
+    <img src="images/K96-10463-H7-L120_reference_PTS645V_slot1_up_slot4_down.png" alt="K96-10463-H7-L120_reference_PTS645V_slot1_up_slot4_down" height="200">
   </p>
