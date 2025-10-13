@@ -144,6 +144,7 @@ Connectorless PMMA plastic optic fiber receiver (IF-D91B):
   <img src="images/IF-D91B_iso.png" alt="IF-D91B" height="200">
   <img src="images/IF-D91B_top.png" alt="IF-D91B" height="200">
   <img src="images/IF-D91B_bottom.png" alt="IF-D91B" height="200">
+  
 </p>
 
 Connectorless PMMA plastic optic fiber receiver reference design:
@@ -225,3 +226,14 @@ Chassis K96-10463-H7-L120:
   <p align="center">
     <img src="images/K96-10463-H7-L120_reference_PTS645V_slot1_up_slot4_down.png" alt="K96-10463-H7-L120_reference_PTS645V_slot1_up_slot4_down" height="200">
   </p>
+
+The indices of the modules used to determine the position of the modules on the protoboard:
+<p align="center">
+  <img src="images/index_4mmBanana.png" alt="index 4mm Banana" height="300">
+  <img src="images/index_IF-D91B.png" alt="index IF-D91B" height="300">
+  <img src="images/index_IF-E96E.png" alt="index IF-E96E" height="300">
+  <img src="images/index_PJ-063AH.png" alt="index PJ-063AH" height="300">
+  <img src="images/index_PTS645V.png" alt="index PTS646V" height="300">
+  <img src="images/index_SJ3-35083D-TR.png" alt="index SJ3-35083D-TR" height="300">
+  <img src="images/index_BNC.png" alt="index BNC" height="300">
+</p>
