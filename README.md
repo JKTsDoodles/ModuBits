@@ -13,7 +13,6 @@ MCAD tool: FreeCAD 1.0.2
   <img src="images/noppera-boo_top.png" alt="Bare Protoboard" width="100%">
 </p>
 
-
 Compatible chassis:
 - [K93-10436-H7-L120](https://jlcmc.com/product/b/U01/BR9212/aluminum-box-(jlc)---104*36*120mm,-split,-monolithic)
 - [K97-10473-H7-L120](https://jlcmc.com/product/b/U01/BR9241/aluminum-box-(jlc)---104*73*120mm,-split,-monolithic)
@@ -238,7 +237,23 @@ The indices of the modules used to determine the position of the modules on the 
   <img src="images/index_BNC.png" alt="index BNC" height="300">
 </p>
 
+
+
 The white bars at the bottom edge of the protoboard mark the decadal numbers and the index has a range of 0..72.
 <p align="center">
   <img src="images/indices_protoboard.png" alt="indices protoboard" width="100%">
 </p>
+
+The following table lists the reference coordinates for the frontpanel hole if the module is sitting on the reference point (index == 0). The coordinates of the respective frontpanel hole can be calculated by adding (if the protoboard is component side up) or subtracting (if the protoboard is component side down) 1.27mm times index (of the module), since the modules are on a 50mil(1.27mm) grid.
+
+I may write a FreeCAD script at some point to automate the generation of the frontpanel MCAD files.
+
+| Chassis                         | Reference Coordinates [X/Y] mm 4mm Banana D=11.5mm | Reference Coordinates [X/Y] mm BNC D=13mm | Reference Coordinates [X/Y] mm IF-D91B D=6.3mm | Reference Coordinates [X/Y] mm IF-E96E D=6.3mm | Reference Coordinates [X/Y] mm PJ-063AH D=7mm | Reference Coordinates [X/Y] mm PTS645V D=3.6mm | Reference Coordinates [X/Y] mm SJ3-35083D-TR D=5.2mm |
+|---------------------------------|----------------------------------------------------|-------------------------------------------|------------------------------------------------|------------------------------------------------|-----------------------------------------------|------------------------------------------------|------------------------------------------------------|
+| K93-10436-H7-L120, level1, up   | 12.63 / 19.92                                      | 15.18 / 20.72                             | 11.36 / 20.6                                   | 11.36 / 20.6                                   | 12.63 / 18.62                                 | 11.38 / 17.12                                  | 10.09 / 16.15                                        |
+| K127-13031-H7-L120, level1, up  | 13.03 / 18.33                                      | 15.55 / 19.14                             | 11.76 / 19.02                                  | 11.76 / 19.02                                  | 13.03 / 17.02                                 | 11.79 / 15.53                                  | 10.49 / 14.56                                        |
+| K97-10473-H7-L120, level1, up   | 12.63 / 19.92                                      | 15.17 / 20.70                             | 11.36 / 20.64                                  | 11.36 / 20.64                                  | 12.63 / 18.62                                 | 11.38 / 17.12                                  | 10.09 / 16.15                                        |
+| K97-10473-H7-L120, level4, down | 12.63+78.74 / 53.06                                | 12.63+76.20 / 52.25                       | 8.82+83.82 / 52.41                             | 8.82+83.82 / 52.41                             | 11.36+80.01 / 54.36                           | 11.34+81.28 / 55.86                            | 8,82+85.09 / 56.83                                   |
+| K96-10463-H7-L120, level1, up   | 12.63 / 19.93                                      | 15.17 / 20.74                             | 11.36 / 20.58                                  | 11.36 / 20.58                                  | 12.63 / 18.63                                 | 11.38 / 17.14                                  | 10.09 / 16.16                                        |
+| K96-10463-H7-L120, level4, down | 12.63+78.74 / 43.07                                | 12.63+76.20 / 42.26                       | 8.82+83.82 / 42.35                             | 8.82+83.82 / 42.35                             | 11.36+80.01 / 44.38                           | 11.34+81.28  / 45.88                           | 8.82+85.09 / 46.84                                   |
+
