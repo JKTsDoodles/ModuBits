@@ -237,3 +237,8 @@ The indices of the modules used to determine the position of the modules on the 
   <img src="images/index_SJ3-35083D-TR.png" alt="index SJ3-35083D-TR" height="300">
   <img src="images/index_BNC.png" alt="index BNC" height="300">
 </p>
+
+The white bars at the bottom edge of the protoboard mark the decadal numbers and the index has a range of 0..72.
+<p align="center">
+  <img src="images/indices_protoboard.png" alt="indices protoboard" width="100%">
+</p>
