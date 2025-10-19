@@ -90,6 +90,7 @@
         "mirrored_text_on_front_layer": "warning",
         "missing_courtyard": "ignore",
         "missing_footprint": "warning",
+        "missing_tuning_profile": "warning",
         "net_conflict": "warning",
         "nonmirrored_text_on_back_layer": "warning",
         "npth_inside_courtyard": "ignore",
@@ -616,6 +617,13 @@
     "reuse_designators": true,
     "subpart_first_id": 65,
     "subpart_id_separator": 0,
+    "top_level_sheets": [
+      {
+        "filename": "Protoboard_Noppera-boo50mil_100mmX120mm.kicad_sch",
+        "name": "Protoboard_Noppera-boo50mil_100mmX120mm",
+        "uuid": "00000000-0000-0000-0000-000000000000"
+      }
+    ],
     "used_designators": ""
   },
   "sheets": [],
@@ -625,5 +633,11 @@
     "meta": {
       "version": 0
     }
+  },
+  "tuning_profiles": {
+    "meta": {
+      "version": 0
+    },
+    "tuning_profiles_impedance_geometric": []
   }
 }
