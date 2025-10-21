@@ -272,8 +272,10 @@ The following image depicts the user area of the generator script that configure
   <img src="images/config_code_snippet.png" alt="config_code_snippet" width="100%">
 </p>
 
-I don't like my connectors getting mangled or smushed, so I designed a simple sacrificial part that will absorb the brunt of the impact force when the chassis is dropped or inadequately packaged. The part is attached to the chassis by using the M3 threads in the chassis, sandwiching the front panel between the chassis and the bumper part. I wanted to round the corners a bit further but I couldn't get the "fillet" tool to do its thing since the FreeCAD implementation is less forgiving than the equivalent tool in commercial MCAD tools. I might add at least the STL file of this part so that people can enjoy a nicely rounded bumper that feels more comfortable.
+I don't like my connectors getting mangled or smushed, so I designed a simple sacrificial part that will absorb the brunt of the impact force when the chassis is dropped or inadequately packaged. The part is attached to the chassis by using the M3 threads in the chassis, sandwiching the front panel between the chassis and the bumper part. I wanted to round the corners a bit further but I couldn't get the "fillet" tool to do its thing since the FreeCAD implementation is less forgiving than the equivalent tool in commercial MCAD tools.
 <p align="center">
   <img src="images/K93-10436-H7-L120_Bumperino.png" alt="K93-10436-H7-L120_Bumperino" height="300">
+  <img src="images/generated_example_K93-10436_all7_bumperino.png" alt="K93-10436-H7-L120_Bumperino" height="300">
+  
 </p>
 
