@@ -276,6 +276,11 @@ I don't like my connectors getting mangled or smushed, so I designed a simple sa
 <p align="center">
   <img src="images/K93-10436-H7-L120_Bumperino.png" alt="K93-10436-H7-L120_Bumperino" height="300">
   <img src="images/generated_example_K93-10436_all7_bumperino.png" alt="K93-10436-H7-L120_Bumperino" height="300">
-  
 </p>
 
+The Tarantinorino is a corner piece with rubbery feet on all relevant sides to allow these chassis to either be used stacked like a tower or standing on the desk as an instrument centipede.
+<p align="center"> 
+  <img src="images/K93-10436-H7-L120_Tarantinorino_right_with_SJ5382.png" alt="K93-10436-H7-L120_Tarantinorino_right_with_SJ5382" width="20%">
+  <img src="images/generated_example_K93-10436_all7_withTarantinorinos.png" alt="generated_example_K93-10436_all7_withTarantinorinos" width="100%">
+  <img src="images/Instrument_Centipede.png" alt="Instrument_Centipede" width="100%">
+</p>
