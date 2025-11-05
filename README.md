@@ -284,3 +284,8 @@ The Tarantinorino is a corner piece with rubbery feet on all relevant sides to a
   <img src="images/generated_example_K93-10436_all7_withTarantinorinos.png" alt="generated_example_K93-10436_all7_withTarantinorinos" width="100%">
   <img src="images/Instrument_Centipede.png" alt="Instrument_Centipede" width="100%">
 </p>
+
+Same as above but with the improved DockLink-Frame:
+<p align="center">
+  <img src="images/generated_example_K93-10436_all7_withDockLinkFrame.png" alt="generated_example_K93-10436_all7_withDockLinkFrame" width="100%">
+</p>
