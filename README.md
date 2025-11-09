@@ -289,3 +289,7 @@ Same as above but with the improved DockLink-Frame:
 <p align="center">
   <img src="images/generated_example_K93-10436_all7_withDockLinkFrame.png" alt="generated_example_K93-10436_all7_withDockLinkFrame" width="100%">
 </p>
+This DockLink-Base-plate allows to secure stacks of chassis with a DockLink-Frame to any surface that can be screwed into with M6 bolts, like optical breadboards (M6, grid: 25mm):
+<p align="center">
+  <img src="images/DockLink-Base-plate_M6_grid25mm.png" alt="DockLink-Base-plate_M6_grid25mm" width="50%">
+</p>
