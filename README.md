@@ -293,3 +293,6 @@ This DockLink-Base-plate allows to secure stacks of chassis with a DockLink-Fram
 <p align="center">
   <img src="images/DockLink-Base-plate_M6_grid25mm.png" alt="DockLink-Base-plate_M6_grid25mm" width="50%">
 </p>
+
+Here's a short video showing off the DockLink-Base-plate with two attached chassis:
+[DockLink-Base-plate](https://drive.proton.me/urls/AMNBBSNWWW#FV0qRknL7xtg)
